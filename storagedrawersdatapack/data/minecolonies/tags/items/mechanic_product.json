@@ -1,0 +1,9 @@
+{
+"replace": false,
+"values": [
+    "storagedrawers:diamond_storage_upgrade",
+    "storagedrawers:emerald_storage_upgrade",
+    "storagedrawers:one_stack_upgrade",
+    "storagedrawers:fill_level_upgrade"
+  ]
+}
