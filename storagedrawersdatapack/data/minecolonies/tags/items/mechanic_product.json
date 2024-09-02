@@ -1,9 +1,11 @@
 {
 "replace": false,
 "values": [
-    "storagedrawers:diamond_storage_upgrade",
-    "storagedrawers:emerald_storage_upgrade",
-    "storagedrawers:one_stack_upgrade",
-    "storagedrawers:fill_level_upgrade"
+    "storagedrawers:keybutton_drawer",
+    "storagedrawers:keybutton_concealment",
+    "storagedrawers:keybutton_quantify",
+    "storagedrawers:quantify_key",
+    "storagedrawers:controller",
+    "storagedrawers:controller_slave"
   ]
 }
